@@ -47,4 +47,5 @@ This dashboard helps businesses understand their customer churn better. It ident
   - Slicers(Filters):
      - Add slicers for fields like 'Payment method', 'Contract Type', 'Gender'
   - Snap of the dashboard
-   ![Dashboard_upload](https://github.com/abcdefhgikhushi/Customer-Churn-Power-Bi-Dashboard/assets/130584771/a88b5438-5e52-4e3c-88c3-9b6588dc0edf)       
+   ![Dashboard_upload](https://github.com/abcdefhgikhushi/Customer-Churn-Power-Bi-Dashboard/assets/130584771/a88b5438-5e52-4e3c-88c3-9b6588dc0edf)
+  - ( Power Bi file has been added . That can be opened on;y with power bi desktop app)     
